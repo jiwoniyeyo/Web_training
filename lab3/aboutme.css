@@ -1,0 +1,62 @@
+body {
+	font-family: Helvetica, Verdana, sans-serif;
+	background-color: #1D2475;
+	color: #939396
+}
+h5 {
+	font-size: 40pt;
+	text-shadow: 3px -3px green;
+}
+dl {
+	font-size: 70%;	
+}
+dt {
+	font-weight: bold;
+	color:#FFF86B;
+}
+p:first-letter {
+	font-weight: bold;
+	font-size: 150%;
+}
+a {
+	color: #FF4F4F;
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: underline;
+}
+a img {
+ 	border: none;
+}
+/*a:img{
+	border: none;
+}테두리 어케없애~~~*/
+
+h5,h2 {
+	color: #F7931E;
+}
+blockquote {
+	color: #D1DFEB;
+}
+li,blockquote {
+	text-align: left;
+}
+strong {
+	color: #FFF86B;
+}
+table,td,th { border: dotted ; }
+table { border-collapse: collapse;}
+ul { list-style-type: square; }
+img { border: medium solid #F7931E;}
+
+
+body {
+	background-image: url("images/cse326bg.jpg");
+	background-repeat: no-repeat;
+	background-position: top right;
+	background-attachment: fixed;
+}
+
+
+
+
